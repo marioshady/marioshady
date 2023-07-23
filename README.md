@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @marioshady
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Ana Data Science/Artificial Intelligence/ Machine Learning projects 
-- 📫 How to reach me https://www.linkedin.com/in/mario-shady-62b7b6140/
+
